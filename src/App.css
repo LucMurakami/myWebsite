@@ -50,6 +50,7 @@ nav a:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  opacity: 1;
 }
 
 #headshot {
@@ -65,4 +66,8 @@ footer {
   width: 100%;
   background-color: black;
   color: white;
+}
+
+.fadeout {
+
 }
